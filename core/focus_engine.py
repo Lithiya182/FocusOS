@@ -5,7 +5,7 @@ class FocusTimer:
 
     def __init__(self, update_callback, finish_callback):
 
-        self.default_time = 10
+        self.default_time = 50*60
         self.time_left = self.default_time
         self.running = False
         self.paused = False
@@ -16,7 +16,7 @@ class FocusTimer:
     def start(self, minutes=None):
 
         if minutes is not None:
-            self.default_time = 10
+            self.default_time = minutes * 60
             self.time_left = self.default_time
 
         if not self.running:
@@ -65,4 +65,5 @@ class FocusTimer:
         self.running = False
         self.time_left = self.default_time
 
-        self.update_callback("50:00")
+        mins = self.default_time // 60
+        self.update_callback(f"{mins:02}:00")
