@@ -81,23 +81,19 @@ Configurations are saved permanently using JSON.
 
 ## Dashboard
 
-![Dashboard](<img width="1917" height="1020" alt="Screenshot 2026-05-22 164119" src="https://github.com/user-attachments/assets/0494d739-20e0-4e8b-8398-039082333041" />
-)
+![Dashboard](assets/Screenshot 2026-05-22 164119.png)
 
 ## Focus Session
 
-![Focus Session](<img width="1918" height="1026" alt="Screenshot 2026-05-22 164136" src="https://github.com/user-attachments/assets/9891ef44-5f85-43ce-9744-0956a231e938" />
-)
+![Focus Session](assets/Screenshot 2026-05-22 164136.png)
 
 ## Configuration
 
-![Configuration](<img width="1919" height="1014" alt="Screenshot 2026-05-22 164226" src="https://github.com/user-attachments/assets/a0b3f8b2-7a73-4b20-b731-b0326b0664a2" />
-)
+![Configuration](assets/Screenshot 2026-05-22 164226.png)
 
 ## Analytics
 
-![Analytics](<img width="1919" height="1002" alt="Screenshot 2026-05-22 175733" src="https://github.com/user-attachments/assets/ce4aee61-6b40-4938-86d9-ab024ba35153" />
-)
+![Analytics](assets/Screenshot 2026-05-22 175733.png)
 
 ---
 
