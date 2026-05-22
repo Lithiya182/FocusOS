@@ -81,19 +81,19 @@ Configurations are saved permanently using JSON.
 
 ## Dashboard
 
-![Dashboard](assets/Screenshot 2026-05-22 164119.png)
+![Dashboard](assets/dashboard.png)
 
 ## Focus Session
 
-![Focus Session](assets/Screenshot 2026-05-22 164136.png)
+![Focus Session](assets/focussession.png)
 
 ## Configuration
 
-![Configuration](assets/Screenshot 2026-05-22 164226.png)
+![Configuration](assets/configuration.png)
 
 ## Analytics
 
-![Analytics](assets/Screenshot 2026-05-22 175733.png)
+![Analytics](assets/analytics.png)
 
 ---
 
