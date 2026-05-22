@@ -1,0 +1,19 @@
+{
+    "productive_apps": [
+        "code.exe",
+        "pycharm64.exe"
+    ],
+    "distracting_apps": [
+        "discord.exe",
+        "spotify.exe",
+        "vlc.exe"
+    ],
+    "productive_sites": [
+        "github.com",
+        "chatgpt.com"
+    ],
+    "distracting_sites": [
+        "youtube.com",
+        "instagram.com"
+    ]
+}
